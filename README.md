@@ -6,5 +6,7 @@ Open `index.html` in a modern browser. Or go  Timi-The-Toaster.github.io/tictact
 General Information:
 
   This is a project made in 2024, transported from chromebook to this website. 
+  Project will be updated as soon as i have access to my chromebook
 
-#NOAI!!!!!!!!!
+Important:
+  This project does not use ai directly imported into it's code. All code is handwritten with guidance from ai and external sources. Please do not treat this project as if it was created by ai.

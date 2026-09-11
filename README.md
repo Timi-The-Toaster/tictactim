@@ -10,3 +10,5 @@ General Information:
 
 Important:
   This project does not use ai directly imported into it's code. All code is handwritten with guidance from ai and external sources. Please do not treat this project as if it was created by ai.
+
+  This code is a preservation of previous efforts to support my code. This code will never be changed, and acts as an artifact.
